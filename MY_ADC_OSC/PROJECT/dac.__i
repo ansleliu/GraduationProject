@@ -1,0 +1,1 @@
+-c --device DARMSTM -g -O0 --apcs=interwork -I..\CORE -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USER -I..\STM32F10x_FWLib\inc -I..\HARDWARE\KEY -I..\HARDWARE\LCD -I..\HARDWARE\LED -I..\HARDWARE\DAC -I "C:\Keil\ARM\INC\ST\STM32F10x" -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o "dac.o" --omf_browse "dac.crf" --depend "dac.d" "..\HARDWARE\DAC\dac.c"

@@ -1,0 +1,4 @@
+--device DARMSTM "main.o" "stm32f10x_it.o" "system_stm32f10x.o" "led.o" "key.o" "lcd.o" "dac_trianglewave.o" "dac.o" "delay.o" "sys.o" "usart.o" "core_cm3.o" ".\startup_stm32f10x_hd.o" "misc.o" "stm32f10x_adc.o" "stm32f10x_dma.o" "stm32f10x_exti.o" "stm32f10x_flash.o" "stm32f10x_fsmc.o" "stm32f10x_gpio.o" "stm32f10x_rcc.o" "stm32f10x_tim.o" "stm32f10x_usart.o" "stm32f10x_dac.o" --strict --scatter "MY_ADC_OSC.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\MY_ADC_OSC.map" -o "MY_ADC_OSC.axf"

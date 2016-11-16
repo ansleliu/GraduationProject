@@ -1,0 +1,68 @@
+### uVision2 Project, (C) Keil Software
+### Do not modify !
+
+ cExt (*.c)
+ aExt (*.s*; *.src; *.a*)
+ oExt (*.obj)
+ lExt (*.lib)
+ tExt (*.txt; *.h; *.inc)
+ pExt (*.plm)
+ CppX (*.cpp)
+ DaveTm { 0,0,0,0,0,0,0,0 }
+
+Target (DAC_WAVE), 0x0004 // Tools: 'ARM-ADS'
+GRPOPT 1,(USER),1,0,0
+GRPOPT 2,(CORE),1,0,0
+GRPOPT 3,(SYSTEM),1,0,0
+GRPOPT 4,(HARDWARE),1,0,0
+GRPOPT 5,(STM32F10x_FWLib),1,0,0
+
+OPTFFF 1,1,1,251658242,0,31,56,0,<..\USER\main.c><main.c> { 44,0,0,0,2,0,0,0,3,0,0,0,255,255,255,255,255,255,255,255,248,255,255,255,226,255,255,255,29,0,0,0,29,0,0,0,167,3,0,0,93,1,0,0 }
+OPTFFF 1,2,1,0,0,0,0,0,<..\USER\stm32f10x_it.c><stm32f10x_it.c> 
+OPTFFF 1,3,1,0,0,0,0,0,<..\USER\system_stm32f10x.c><system_stm32f10x.c> 
+OPTFFF 2,4,1,0,0,0,0,0,<..\CORE\core_cm3.c><core_cm3.c> 
+OPTFFF 2,5,2,0,0,0,0,0,<..\CORE\startup_stm32f10x_hd.s><startup_stm32f10x_hd.s> 
+OPTFFF 3,6,1,553648128,0,116,120,0,<..\SYSTEM\delay\delay.c><delay.c> { 44,0,0,0,0,0,0,0,1,0,0,0,255,255,255,255,255,255,255,255,248,255,255,255,226,255,255,255,145,0,0,0,145,0,0,0,31,4,0,0,211,1,0,0 }
+OPTFFF 3,7,1,0,0,0,0,0,<..\SYSTEM\sys\sys.c><sys.c> 
+OPTFFF 3,8,1,0,0,0,0,0,<..\SYSTEM\usart\usart.c><usart.c> 
+OPTFFF 4,9,1,939524096,0,21,36,0,<..\HARDWARE\ADC\adc.c><adc.c> { 44,0,0,0,0,0,0,0,1,0,0,0,255,255,255,255,255,255,255,255,248,255,255,255,226,255,255,255,116,0,0,0,116,0,0,0,2,4,0,0,182,1,0,0 }
+OPTFFF 4,10,1,0,0,0,0,0,<..\HARDWARE\DMA\dma.c><dma.c> 
+OPTFFF 4,11,1,0,0,0,0,0,<..\HARDWARE\KEY\key.c><key.c> 
+OPTFFF 4,12,1,0,0,0,0,0,<..\HARDWARE\LCD\lcd.c><lcd.c> 
+OPTFFF 4,13,1,0,0,0,0,0,<..\HARDWARE\LED\led.c><led.c> 
+OPTFFF 4,14,1,0,0,82,82,0,<..\HARDWARE\DAC\dac.c><dac.c> { 44,0,0,0,0,0,0,0,1,0,0,0,255,255,255,255,255,255,255,255,248,255,255,255,226,255,255,255,58,0,0,0,58,0,0,0,200,3,0,0,124,1,0,0 }
+OPTFFF 5,15,1,0,0,0,0,0,<..\STM32F10x_FWLib\src\misc.c><misc.c> 
+OPTFFF 5,16,1,0,0,0,0,0,<..\STM32F10x_FWLib\src\stm32f10x_adc.c><stm32f10x_adc.c> 
+OPTFFF 5,17,1,0,0,0,0,0,<..\STM32F10x_FWLib\src\stm32f10x_dac.c><stm32f10x_dac.c> 
+OPTFFF 5,18,1,0,0,0,0,0,<..\STM32F10x_FWLib\src\stm32f10x_dma.c><stm32f10x_dma.c> 
+OPTFFF 5,19,1,0,0,0,0,0,<..\STM32F10x_FWLib\src\stm32f10x_exti.c><stm32f10x_exti.c> 
+OPTFFF 5,20,1,0,0,0,0,0,<..\STM32F10x_FWLib\src\stm32f10x_fsmc.c><stm32f10x_fsmc.c> 
+OPTFFF 5,21,1,0,0,0,0,0,<..\STM32F10x_FWLib\src\stm32f10x_flash.c><stm32f10x_flash.c> 
+OPTFFF 5,22,1,0,0,0,0,0,<..\STM32F10x_FWLib\src\stm32f10x_gpio.c><stm32f10x_gpio.c> 
+OPTFFF 5,23,1,0,0,0,0,0,<..\STM32F10x_FWLib\src\stm32f10x_rcc.c><stm32f10x_rcc.c> 
+OPTFFF 5,24,1,0,0,0,0,0,<..\STM32F10x_FWLib\src\stm32f10x_tim.c><stm32f10x_tim.c> 
+OPTFFF 5,25,1,0,0,0,0,0,<..\STM32F10x_FWLib\src\stm32f10x_usart.c><stm32f10x_usart.c> 
+
+ExtF <E:\STM32\GraduationProject\DAC_Wave\STM32F10x_FWLib\inc\stm32f10x_adc.h> 202,213,0,{ 44,0,0,0,0,0,0,0,1,0,0,0,255,255,255,255,255,255,255,255,248,255,255,255,226,255,255,255,0,0,0,0,0,0,0,0,142,3,0,0,66,1,0,0 }
+ExtF <E:\STM32\GraduationProject\DAC_Wave\STM32F10x_FWLib\inc\stm32f10x_dma.h> 138,149,0,{ 44,0,0,0,0,0,0,0,1,0,0,0,255,255,255,255,255,255,255,255,248,255,255,255,226,255,255,255,29,0,0,0,29,0,0,0,171,3,0,0,95,1,0,0 }
+
+TARGOPT 1, (DAC_WAVE)
+ ADSCLK=8000000
+  OPTTT 1,1,1,0
+  OPTHX 1,65535,0,0,0
+  OPTLX 79,66,8,<.\>
+  OPTOX 16
+  OPTLT 1,1,1,0,1,1,0,1,0,0,0,0
+  OPTXL 1,1,1,1,1,1,1,0,0
+  OPTFL 1,0,1
+  OPTAX 255
+  OPTBL 0,(Reference Manual)<DATASHTS\ST\STM32F10xxx.PDF>
+  OPTDL (SARMCM3.DLL)()(DARMSTM.DLL)(-pSTM32F103ZE)(SARMCM3.DLL)()(TARMSTM.DLL)(-pSTM32F103ZE)
+  OPTDBG 48126,7,()()()()()()()()()() (Segger\JL2CM3.dll)()()()
+  OPTKEY 0,(JL2CM3)(-U17935099 -O14 -S8 -A0 -C0 -JU1 -JI127.0.0.1 -JP0 -N00("ARM CoreSight JTAG-DP") -D00(3BA00477) -L00(4) -N01("Unknown JTAG device") -D01(06414041) -L01(5) -TO18 -TC10000000 -TP21 -TDS8007 -TDT0 -TDC1F -TIEFFFFFFFF -TIP8 -TB1 -TRE0 -FO15 -FD20000000 -FC800 -FN1 -FF0STM32F10x_512 -FS08000000 -FL080000)
+  OPTKEY 0,(UL2CM3)(-O14 -S0 -C0 -N00("ARM Cortex-M3") -D00(1BA00477) -L00(4) -FO7 -FD20000000 -FC800 -FN1 -FF0STM32F10x_512 -FS08000000 -FL080000))
+  OPTDF 0x2
+  OPTLE <>
+  OPTLC <>
+EndOpt
+
