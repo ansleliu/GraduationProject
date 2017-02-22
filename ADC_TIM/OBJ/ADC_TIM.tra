@@ -1,0 +1,44 @@
+*** Creating Trace Output File '..\OBJ\ADC_TIM.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"..\obj\main.o"'
+### List of Objects: adding '"..\obj\stm32f10x_it.o"'
+### List of Objects: adding '"..\obj\system_stm32f10x.o"'
+### List of Objects: adding '"..\obj\adc.o"'
+### List of Objects: adding '"..\obj\key.o"'
+### List of Objects: adding '"..\obj\lcd.o"'
+### List of Objects: adding '"..\obj\led.o"'
+### List of Objects: adding '"..\obj\timer.o"'
+### List of Objects: adding '"..\obj\dac_trianglewave.o"'
+### List of Objects: adding '"..\obj\dac.o"'
+### List of Objects: adding '"..\obj\core_cm3.o"'
+### List of Objects: adding '"..\obj\startup_stm32f10x_hd.o"'
+### List of Objects: adding '"..\obj\delay.o"'
+### List of Objects: adding '"..\obj\sys.o"'
+### List of Objects: adding '"..\obj\usart.o"'
+### List of Objects: adding '"..\obj\misc.o"'
+### List of Objects: adding '"..\obj\stm32f10x_adc.o"'
+### List of Objects: adding '"..\obj\stm32f10x_dac.o"'
+### List of Objects: adding '"..\obj\stm32f10x_dma.o"'
+### List of Objects: adding '"..\obj\stm32f10x_exti.o"'
+### List of Objects: adding '"..\obj\stm32f10x_fsmc.o"'
+### List of Objects: adding '"..\obj\stm32f10x_gpio.o"'
+### List of Objects: adding '"..\obj\stm32f10x_tim.o"'
+### List of Objects: adding '"..\obj\stm32f10x_usart.o"'
+### List of Objects: adding '"..\obj\stm32f10x_rcc.o"'
+### List of Objects: adding '"..\obj\stm32f10x_flash.o"'
+### ADS-LD Command completed:
+--device DARMSTM "..\obj\main.o" "..\obj\stm32f10x_it.o" "..\obj\system_stm32f10x.o" "..\obj\adc.o" "..\obj\key.o" "..\obj\lcd.o" "..\obj\led.o" "..\obj\timer.o" "..\obj\dac_trianglewave.o" "..\obj\dac.o" "..\obj\core_cm3.o" "..\obj\startup_stm32f10x_hd.o" "..\obj\delay.o" "..\obj\sys.o" "..\obj\usart.o" "..\obj\misc.o" "..\obj\stm32f10x_adc.o" "..\obj\stm32f10x_dac.o" "..\obj\stm32f10x_dma.o" "..\obj\stm32f10x_exti.o" "..\obj\stm32f10x_fsmc.o" "..\obj\stm32f10x_gpio.o" "..\obj\stm32f10x_tim.o" "..\obj\stm32f10x_usart.o" "..\obj\stm32f10x_rcc.o" "..\obj\stm32f10x_flash.o" --strict --scatter "..\OBJ\ADC_TIM.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\ADC_TIM.map" -o "..\OBJ\ADC_TIM.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '..\OBJ\ADC_TIM.axf'
+### ADS-LD Command File: '..\OBJ\ADC_TIM.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '..\OBJ\ADC_TIM.lnp', Handle=0x00000218
+### Writing '.lnp' file
+### ADS-LD Command file '..\OBJ\ADC_TIM.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
