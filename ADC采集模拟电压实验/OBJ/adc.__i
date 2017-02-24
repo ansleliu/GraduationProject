@@ -1,0 +1,1 @@
+-c --device DARMSTM -g -O0 --apcs=interwork -I..\CORE -I..\USER -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\HARDWARE\ADC -I..\HARDWARE\LCD -I..\HARDWARE\LED -I..\STM32F10x_FWLib\inc -I "C:\Keil\ARM\INC\ST\STM32F10x" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o "..\OBJ\adc.o" --omf_browse "..\OBJ\adc.crf" --depend "..\OBJ\adc.d" "..\HARDWARE\ADC\adc.c"
