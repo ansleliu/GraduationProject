@@ -1,0 +1,2054 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\ansleliu\Desktop\毕业设计\我的毕设程序\DAC_ADC_WAVE\PROJECT\DAC_ADC_WAVE.uvproj
+Project File Date:  05/23/2014
+
+<h2>Output:</h2>
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+compiling stm32f10x_it.c...
+compiling system_stm32f10x.c...
+compiling dac.c...
+compiling dac_TriangleWave.c...
+compiling key.c...
+compiling lcd.c...
+compiling led.c...
+compiling delay.c...
+compiling sys.c...
+compiling usart.c...
+compiling core_cm3.c...
+assembling startup_stm32f10x_hd.s...
+compiling misc.c...
+compiling stm32f10x_adc.c...
+compiling stm32f10x_dac.c...
+compiling stm32f10x_dma.c...
+compiling stm32f10x_exti.c...
+compiling stm32f10x_flash.c...
+compiling stm32f10x_fsmc.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_rcc.c...
+compiling stm32f10x_tim.c...
+compiling stm32f10x_usart.c...
+linking...
+Program Size: Code=29648 RO-data=2996 RW-data=88 ZI-data=20832  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29648 RO-data=2996 RW-data=88 ZI-data=20832  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29648 RO-data=2996 RW-data=88 ZI-data=20832  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29648 RO-data=2996 RW-data=88 ZI-data=20832  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29648 RO-data=2996 RW-data=88 ZI-data=20832  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=29648 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29648 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29648 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29648 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=29648 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29648 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=29648 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29648 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=29648 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=29648 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29648 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=29648 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=29648 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29648 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29648 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29648 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=29648 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29648 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29648 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=29124 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29124 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29124 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29124 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29124 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=29224 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\DAC_ADC_WAVE.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Nov 25 2013 19:20:08
+Hardware: V8.00
+S/N : 17935099 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+
+Target info:
+------------
+Device: STM32F103ZE
+VTarget = 3.196V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 9600 kHz
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=29220 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\DAC_ADC_WAVE.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Nov 25 2013 19:20:08
+Hardware: V8.00
+S/N : 17935099 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+
+Target info:
+------------
+Device: STM32F103ZE
+VTarget = 3.190V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 9600 kHz
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29220 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=29124 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\DAC_ADC_WAVE.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Nov 25 2013 19:20:08
+Hardware: V8.00
+S/N : 17935099 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+
+Target info:
+------------
+Device: STM32F103ZE
+VTarget = 3.190V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 9600 kHz
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=29124 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\DAC_ADC_WAVE.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Nov 25 2013 19:20:08
+Hardware: V8.00
+S/N : 17935099 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+
+Target info:
+------------
+Device: STM32F103ZE
+VTarget = 3.196V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 9600 kHz
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=29068 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=29068 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29068 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\DAC_ADC_WAVE.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Nov 25 2013 19:20:08
+Hardware: V8.00
+S/N : 17935099 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+
+Target info:
+------------
+Device: STM32F103ZE
+VTarget = 3.196V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 9600 kHz
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=29072 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29072 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\DAC_ADC_WAVE.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Nov 25 2013 19:20:08
+Hardware: V8.00
+S/N : 17935099 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+
+Target info:
+------------
+Device: STM32F103ZE
+VTarget = 3.196V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 9600 kHz
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=29072 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29072 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29072 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29072 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29072 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=29072 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29072 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=29092 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\DAC_ADC_WAVE.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Nov 25 2013 19:20:08
+Hardware: V8.00
+S/N : 17935099 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+
+Target info:
+------------
+Device: STM32F103ZE
+VTarget = 3.196V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 9600 kHz
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=29072 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29072 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\DAC_ADC_WAVE.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Nov 25 2013 19:20:08
+Hardware: V8.00
+S/N : 17935099 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+
+Target info:
+------------
+Device: STM32F103ZE
+VTarget = 3.196V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 9600 kHz
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29072 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=29056 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29056 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\DAC_ADC_WAVE.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Nov 25 2013 19:20:08
+Hardware: V8.00
+S/N : 17935099 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+
+Target info:
+------------
+Device: STM32F103ZE
+VTarget = 3.196V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 9600 kHz
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=30672 RO-data=3060 RW-data=84 ZI-data=37348  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=30672 RO-data=3060 RW-data=84 ZI-data=37348  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\DAC_ADC_WAVE.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Nov 25 2013 19:20:08
+Hardware: V8.00
+S/N : 17935099 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+
+Target info:
+------------
+Device: STM32F103ZE
+VTarget = 3.196V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 9600 kHz
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'DAC_ADC_WAVE'
+compiling dac.c...
+linking...
+Program Size: Code=30668 RO-data=3060 RW-data=84 ZI-data=37348  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\DAC_ADC_WAVE.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Nov 25 2013 19:20:08
+Hardware: V8.00
+S/N : 17935099 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+
+Target info:
+------------
+Device: STM32F103ZE
+VTarget = 3.190V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 9600 kHz
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'DAC_ADC_WAVE'
+compiling dac.c...
+linking...
+Program Size: Code=30668 RO-data=3060 RW-data=84 ZI-data=37348  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=30668 RO-data=3060 RW-data=84 ZI-data=37348  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\DAC_ADC_WAVE.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Nov 25 2013 19:20:08
+Hardware: V8.00
+S/N : 17935099 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+
+Target info:
+------------
+Device: STM32F103ZE
+VTarget = 3.196V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 9600 kHz
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'DAC_ADC_WAVE'
+compiling dac.c...
+linking...
+Program Size: Code=30668 RO-data=3060 RW-data=84 ZI-data=37348  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\DAC_ADC_WAVE.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Nov 25 2013 19:20:08
+Hardware: V8.00
+S/N : 17935099 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+
+Target info:
+------------
+Device: STM32F103ZE
+VTarget = 3.190V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 9600 kHz
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'DAC_ADC_WAVE'
+compiling dac.c...
+linking...
+Program Size: Code=30668 RO-data=3060 RW-data=84 ZI-data=37348  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\DAC_ADC_WAVE.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Nov 25 2013 19:20:08
+Hardware: V8.00
+S/N : 17935099 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+
+Target info:
+------------
+Device: STM32F103ZE
+VTarget = 3.190V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 9600 kHz
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'DAC_ADC_WAVE'
+compiling dac.c...
+linking...
+Program Size: Code=30672 RO-data=3060 RW-data=84 ZI-data=37348  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\DAC_ADC_WAVE.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Nov 25 2013 19:20:08
+Hardware: V8.00
+S/N : 17935099 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+
+Target info:
+------------
+Device: STM32F103ZE
+VTarget = 3.196V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 9600 kHz
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'DAC_ADC_WAVE'
+compiling dac.c...
+linking...
+Program Size: Code=30672 RO-data=3060 RW-data=84 ZI-data=37348  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\DAC_ADC_WAVE.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Nov 25 2013 19:20:08
+Hardware: V8.00
+S/N : 17935099 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+
+Target info:
+------------
+Device: STM32F103ZE
+VTarget = 3.196V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 9600 kHz
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'DAC_ADC_WAVE'
+compiling dac.c...
+linking...
+Program Size: Code=30668 RO-data=3060 RW-data=84 ZI-data=37348  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\DAC_ADC_WAVE.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Nov 25 2013 19:20:08
+Hardware: V8.00
+S/N : 17935099 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+
+Target info:
+------------
+Device: STM32F103ZE
+VTarget = 3.196V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 9600 kHz
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'DAC_ADC_WAVE'
+compiling dac.c...
+linking...
+Program Size: Code=30668 RO-data=3060 RW-data=84 ZI-data=37348  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\DAC_ADC_WAVE.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Nov 25 2013 19:20:08
+Hardware: V8.00
+S/N : 17935099 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+
+Target info:
+------------
+Device: STM32F103ZE
+VTarget = 3.196V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 9600 kHz
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'DAC_ADC_WAVE'
+compiling dac.c...
+linking...
+Program Size: Code=30672 RO-data=3060 RW-data=84 ZI-data=37348  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\DAC_ADC_WAVE.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Nov 25 2013 19:20:08
+Hardware: V8.00
+S/N : 17935099 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+
+Target info:
+------------
+Device: STM32F103ZE
+VTarget = 3.190V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 9600 kHz
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'DAC_ADC_WAVE'
+compiling dac.c...
+linking...
+Program Size: Code=30668 RO-data=3060 RW-data=84 ZI-data=37348  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\DAC_ADC_WAVE.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Nov 25 2013 19:20:08
+Hardware: V8.00
+S/N : 17935099 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+
+Target info:
+------------
+Device: STM32F103ZE
+VTarget = 3.196V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 9600 kHz
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'DAC_ADC_WAVE'
+compiling dac.c...
+linking...
+Program Size: Code=30668 RO-data=3060 RW-data=84 ZI-data=37348  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\DAC_ADC_WAVE.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Nov 25 2013 19:20:08
+Hardware: V8.00
+S/N : 17935099 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+
+Target info:
+------------
+Device: STM32F103ZE
+VTarget = 3.190V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 9600 kHz
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=29056 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\DAC_ADC_WAVE.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Nov 25 2013 19:20:08
+Hardware: V8.00
+S/N : 17935099 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+
+Target info:
+------------
+Device: STM32F103ZE
+VTarget = 3.196V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 9600 kHz
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=29056 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29056 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\DAC_ADC_WAVE.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Nov 25 2013 19:20:08
+Hardware: V8.00
+S/N : 17935099 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+
+Target info:
+------------
+Device: STM32F103ZE
+VTarget = 3.196V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 9600 kHz
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=29056 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=29056 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\DAC_ADC_WAVE.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Nov 25 2013 19:20:08
+Hardware: V8.00
+S/N : 17935099 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+
+Target info:
+------------
+Device: STM32F103ZE
+VTarget = 3.196V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 9600 kHz
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=29056 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29056 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29056 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+compiling stm32f10x_it.c...
+compiling system_stm32f10x.c...
+compiling dac.c...
+compiling dac_TriangleWave.c...
+compiling key.c...
+compiling lcd.c...
+compiling led.c...
+compiling delay.c...
+compiling sys.c...
+compiling usart.c...
+compiling core_cm3.c...
+assembling startup_stm32f10x_hd.s...
+compiling misc.c...
+compiling stm32f10x_adc.c...
+compiling stm32f10x_dac.c...
+compiling stm32f10x_dma.c...
+compiling stm32f10x_exti.c...
+compiling stm32f10x_flash.c...
+compiling stm32f10x_fsmc.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_rcc.c...
+compiling stm32f10x_tim.c...
+compiling stm32f10x_usart.c...
+linking...
+Program Size: Code=29056 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=29056 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29056 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\DAC_ADC_WAVE.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Nov 25 2013 19:20:08
+Hardware: V8.00
+S/N : 17935099 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+
+Target info:
+------------
+Device: STM32F103ZE
+VTarget = 3.190V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 9600 kHz
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+compiling led.c...
+linking...
+Program Size: Code=29092 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29092 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=29112 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\DAC_ADC_WAVE.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Nov 25 2013 19:20:08
+Hardware: V8.00
+S/N : 17935099 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+
+Target info:
+------------
+Device: STM32F103ZE
+VTarget = 3.196V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 9600 kHz
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29112 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=29112 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=29120 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29120 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\DAC_ADC_WAVE.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Nov 25 2013 19:20:08
+Hardware: V8.00
+S/N : 17935099 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+
+Target info:
+------------
+Device: STM32F103ZE
+VTarget = 3.196V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 9600 kHz
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=29112 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\DAC_ADC_WAVE.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Nov 25 2013 19:20:08
+Hardware: V8.00
+S/N : 17935099 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+
+Target info:
+------------
+Device: STM32F103ZE
+VTarget = 3.196V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 9600 kHz
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=29116 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\DAC_ADC_WAVE.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Nov 25 2013 19:20:08
+Hardware: V8.00
+S/N : 17935099 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+
+Target info:
+------------
+Device: STM32F103ZE
+VTarget = 3.196V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 9600 kHz
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=29120 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\DAC_ADC_WAVE.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Nov 25 2013 19:20:08
+Hardware: V8.00
+S/N : 17935099 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+
+Target info:
+------------
+Device: STM32F103ZE
+VTarget = 3.196V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 9600 kHz
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=29120 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29120 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\DAC_ADC_WAVE.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Nov 25 2013 19:20:08
+Hardware: V8.00
+S/N : 17935099 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+
+Target info:
+------------
+Device: STM32F103ZE
+VTarget = 3.190V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 9600 kHz
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=29120 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\DAC_ADC_WAVE.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Nov 25 2013 19:20:08
+Hardware: V8.00
+S/N : 17935099 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+
+Target info:
+------------
+Device: STM32F103ZE
+VTarget = 3.190V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 9600 kHz
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=29120 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29120 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DAC_ADC_WAVE'
+linking...
+Program Size: Code=29120 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\DAC_ADC_WAVE.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Nov 25 2013 19:20:08
+Hardware: V8.00
+S/N : 17935099 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+
+Target info:
+------------
+Device: STM32F103ZE
+VTarget = 3.196V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 9600 kHz
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=29144 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\DAC_ADC_WAVE.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Nov 25 2013 19:20:08
+Hardware: V8.00
+S/N : 17935099 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+
+Target info:
+------------
+Device: STM32F103ZE
+VTarget = 3.190V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 9600 kHz
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'DAC_ADC_WAVE'
+compiling main.c...
+linking...
+Program Size: Code=29128 RO-data=2996 RW-data=84 ZI-data=37220  
+FromELF: creating hex file...
+"..\OBJ\DAC_ADC_WAVE.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\DAC_ADC_WAVE.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Nov 25 2013 19:20:08
+Hardware: V8.00
+S/N : 17935099 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash 
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+
+Target info:
+------------
+Device: STM32F103ZE
+VTarget = 3.190V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 9600 kHz
+---
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
